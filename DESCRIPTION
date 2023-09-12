@@ -1,7 +1,7 @@
 Package: jhbillUpdatePkg
 Type: Package
 Title: update bill in jaour project
-Version: 0.2.0
+Version: 1.1.1
 Author: zhang chaoyang
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
